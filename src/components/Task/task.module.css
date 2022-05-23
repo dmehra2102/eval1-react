@@ -1,0 +1,30 @@
+.task {
+  /* Sample  */
+  display: flex;
+  gap: 10px;
+  text-align: center;
+  align-items: center;
+}
+
+.task > div {
+  align-items: center;
+  display: flex;
+  text-align: center;
+}
+.task > div > button {
+  height: 30px;
+  color: white;
+  width: 30px;
+  font-size: larger;
+  border: none;
+  outline: none;
+  margin: 5px;
+  background-color: rgb(120, 158, 240);
+}
+.underlineit {
+  text-decoration: underline;
+  font-size: 30px;
+}
+.notunderline {
+  font-size: 20px;
+}

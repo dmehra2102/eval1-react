@@ -1,0 +1,7 @@
+.app {
+    border: 1px solid red;
+    width: 40%;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}

@@ -1,0 +1,19 @@
+.todoForm {
+  /* Sample */
+  border-bottom: 1px solid rgb(209, 206, 206);
+  justify-content: space-between;
+}
+
+.todoForm > input {
+  font-size: larger;
+  margin: 2px;
+  border: none;
+  outline: none;
+  width: 400px;
+  /* margin-left: -50px !important; */
+}
+
+.todoForm > button {
+  margin: 4px;
+  margin-left: 80px;
+}
